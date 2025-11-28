@@ -40,11 +40,11 @@ Alinhado com ODS 6 da ONU: Garantir a disponibilidade e gestão sustentável da 
    
 ### 🚀 Instalação
 
-###### Instale as bibliotecas necessárias:
-   ###### - PubSubClient (MQTT)
-   ###### - OneWire
-   ###### - DallasTemperature
-   ###### - ArduinoJson
+#### Instale as bibliotecas necessárias:
+   - PubSubClient (MQTT)
+   - OneWire
+   - DallasTemperature
+   - ArduinoJson
 
 
 #### 📈 Resultados e Validação
