@@ -19,7 +19,7 @@ Alinhado com ODS 6 da ONU: Garantir a disponibilidade e gestão sustentável da 
 
 ### ⚙️ Arquitetura do Sistema
 
-<img width="727" height="461" alt="image" src="https://github.com/user-attachments/assets/ff588126-ffbe-475e-98c4-3a6dede8a386" />
+<img width="740" height="451" alt="image" src="https://github.com/user-attachments/assets/0cdabd75-3e80-4e6f-9f14-2b6fa76a9526" />
 
                             
 
@@ -34,19 +34,11 @@ Alinhado com ODS 6 da ONU: Garantir a disponibilidade e gestão sustentável da 
 ### 💻 Componentes de Software
 #### Componente	Tecnologia	Função
 
- - Backend	Spring Boot 3.x	API REST, gestão de dados
- - Frontend	React + TypeScript	Interface do usuário
- - Banco de Dados	PostgreSQL	Dados estruturados
  - MQTT Broker	Node-RED	Comunicação IoT
  - Time Series	InfluxDB	Dados temporais
  - Dashboard	Grafana	Visualização em tempo real
    
 ### 🚀 Instalação
-#### Pré-requisitos
- - Java 17+
- - Node.js 18+
- - PostgreSQL 14+
- - Maven 3.6+
 
 ###### Instale as bibliotecas necessárias:
    ###### - PubSubClient (MQTT)
