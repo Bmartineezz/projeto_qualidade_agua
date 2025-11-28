@@ -12,9 +12,9 @@ Alinhado com ODS 6 da ONU: Garantir a disponibilidade e gestão sustentável da 
 ---------------------------------------------
 ### 🔬 Parâmetros Monitorados
 #### Parâmetro	Faixa Ideal	Limite Crítico	Relevância
-pH	6.5 - 8.5	<6.0 ou >9.0	Valores fora favorecem corrosão e reduzem eficácia do cloro
-Turbidez	< 1 NTU	> 5 NTU	Indica riscos microbiológicos e prejudica desinfecção
-Temperatura	< 25°C	> 30°C	Temperaturas elevadas favorecem proliferação bacteriana
+##### pH	6.5 - 8.5	<6.0 ou >9.0	Valores fora favorecem corrosão e reduzem eficácia do cloro
+##### Turbidez	< 1 NTU	> 5 NTU	Indica riscos microbiológicos e prejudica desinfecção
+##### Temperatura	< 25°C	> 30°C	Temperaturas elevadas favorecem proliferação bacteriana
 ---------------------------------------
 
 ### ⚙️ Arquitetura do Sistema
