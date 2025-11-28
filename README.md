@@ -49,10 +49,10 @@ Alinhado com ODS 6 da ONU: Garantir a disponibilidade e gestão sustentável da 
  - Maven 3.6+
 
 ###### Instale as bibliotecas necessárias:
-// - PubSubClient (MQTT)
-// - OneWire
-// - DallasTemperature
-// - ArduinoJson
+   ###### - PubSubClient (MQTT)
+   ###### - OneWire
+   ###### - DallasTemperature
+   ###### - ArduinoJson
 
 
 #### 📈 Resultados e Validação
